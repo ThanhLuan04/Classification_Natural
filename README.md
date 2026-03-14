@@ -1,4 +1,3 @@
-Natural Image Classification with ResNet50
 Giới thiệu
 
 Dự án này xây dựng mô hình phân loại ảnh sử dụng Deep Learning để phân loại ảnh tự nhiên thành 8 lớp :
